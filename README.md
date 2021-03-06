@@ -1,6 +1,6 @@
 # ENSIAS-IT-showcase
 ENSIAS-IT react training
-### Usage
+### Execution
 ```sh
 $ npm install
 ```
