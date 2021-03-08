@@ -3,4 +3,5 @@ ENSIAS-IT react training
 ### Execution
 ```sh
 $ npm install
+$ npm start
 ```
